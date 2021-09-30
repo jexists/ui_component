@@ -1,0 +1,8 @@
+# .gitignore
+
+**/node_modules/
+**/.cache
+**/.DS_store
+**/*.lock
+**/*.config
+**/*.log
