@@ -36,6 +36,7 @@
   content: 'close';
 }
 
+
 .context {
   display: none;
   position: absolute;
@@ -46,4 +47,8 @@
   width: 60%;
   padding: 10px;
   z-index: 1;
+}
+
+.item.open .context {
+  display: block;
 }
